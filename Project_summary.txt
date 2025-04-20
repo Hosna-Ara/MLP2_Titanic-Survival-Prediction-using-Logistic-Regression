@@ -1,0 +1,17 @@
+📌 Project Summary: Titanic Survival Prediction
+
+This beginner-level machine learning project focuses on predicting passenger survival from the Titanic disaster using Logistic Regression. The dataset includes demographic and travel-related features such as age, gender, passenger class, fare, and embarkation point.
+
+Key steps included:
+
+    Data preprocessing: Handling missing values, encoding categorical variables (one-hot encoding), and feature selection.
+
+    Exploratory Data Analysis (EDA): Visualized survival patterns by gender, class, and age group to extract insights.
+
+    Model training: Implemented logistic regression using Scikit-learn to predict survival outcomes.
+
+    Model evaluation: Used accuracy, precision, recall, and confusion matrix to assess performance.
+
+    Tools & Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Google Colab.
+
+This project demonstrates foundational skills in data science, binary classification, and model interpretation.
